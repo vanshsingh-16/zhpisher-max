@@ -113,13 +113,13 @@ You can easily install zphisher in Termux by using tur-repo
 - By using the wrapper script [**run-docker.sh**](https://github.com/vanshsingh-16/zhpisher-max.git)
 
   ```
-  $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
+  $ curl -LO 
   $ bash run-docker.sh
   ```
 - Temporary Container
 
   ```
-  docker run --rm -ti htrtech/zphisher
+  docker run --rm 
   ```
   - Remember to mount the `auth` directory.
 
