@@ -351,7 +351,7 @@ about() {
 	cat <<- EOF
 		${GREEN} Author   ${RED}:  ${ORANGE}ig@_vansh_singh_chandel_ ${RED}[ ${ORANGE} BruTux.in${RED}]
 		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/vanshsingh-16/zhpisher-max.git
-		${GREEN} Social   ${RED}:  ${CYAN}https://tahmidrayat.is-a.dev
+		${GREEN} Social   ${RED}:  ${CYAN}https://github.com/vanshsingh-16/zhpisher-max.git
 		${GREEN} Version  ${RED}:  ${ORANGE}${__version__}
 
 		${WHITE} ${REDBG}Warning:${RESETBG}
