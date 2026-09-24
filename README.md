@@ -53,7 +53,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/vanshsingh-16/zhpisher-max.git
+  git clone --depth=1 https://github.com/vanshsingh-16/zphisher-max.git
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
@@ -83,7 +83,7 @@ You can easily install zphisher in Termux by using tur-repo
 
 ### Installation via ".deb" file
 
-- Download `.deb` files from the [**Latest Release**](https://github.com/vanshsingh-16/zhpisher-max.git)
+- Download `.deb` files from the [**Latest Release**](https://github.com/vanshsingh-16/zphisher-max.git)
 - If you are using ***termux*** then download the `*_termux.deb`
 
 - Install the `.deb` file by executing
@@ -110,7 +110,7 @@ You can easily install zphisher in Termux by using tur-repo
     docker pull /zphisher:latest
     ```
 
-- By using the wrapper script [**run-docker.sh**](https://github.com/vanshsingh-16/zhpisher-max.git)
+- By using the wrapper script [**run-docker.sh**](https://github.com/vanshsingh-16/zphisher-max.git)
 
   ```
   $ curl -LO 
